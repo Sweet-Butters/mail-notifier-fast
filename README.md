@@ -12,7 +12,7 @@
 ![Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-4285F4?logo=google&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> 🇺🇸 English version (with English-primary docs): coming separately
+> 🇺🇸 English version: [Sweet-Butters/mail-notifier-fast_eng](https://github.com/Sweet-Butters/mail-notifier-fast_eng)
 
 ---
 
