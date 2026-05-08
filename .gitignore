@@ -1,0 +1,15 @@
+.venv/
+.env
+.env.*
+credentials.json
+credentials_fast.json
+token.json
+token_fast.json
+*보안비번*
+*client_secret*
+*.pkl
+__pycache__/
+*.pyc
+.claude/
+*.swp
+.DS_Store
