@@ -207,8 +207,8 @@ acc confirm http://localhost:8080/?state=...&code=...
                                    봇이 token 저장 + Gmail watch 등록 + 완료 알림
 
 # 이후 자유롭게:
-add ctlearn@yonsei.ac.kr            ← 중요 발신자 추가 (계정 1개라 @ 생략 가능)
-watch 회사X 면접 일정              ← 기다리는 메일 키워드
+add hr@somecorp.com            ← 중요 발신자 추가 (계정 1개라 @ 생략 가능)
+watch 회사X 인턴 합격 안내              ← 기다리는 메일 키워드
 list                              ← 현재 설정 보기
 ```
 
